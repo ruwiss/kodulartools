@@ -1,0 +1,2186 @@
+{
+    "name": "ChemDict3",
+    "metadata-version": 1,
+    "extension_version": 5,
+    "author": "bluruwis",
+    "platforms": [
+        "creator.kodular.io"
+    ],
+    "extensions": {
+        "RelativeView": "RelativeView.RelativeView",
+        "ListFinder": "com.atomdeveloper.ListFinder.ListFinder",
+        "RandomGenerator": "com.randomgenerator.Sumit1334.RandomGenerator",
+        "ScrollHandler": "com.sunny.ScrollHandler.ScrollHandler",
+        "DynamicComponents": "com.yusufcihan.DynamicComponents.DynamicComponents",
+        "Phase": "io.shreyash.phase.Phase"
+    },
+    "keys": [
+        "id"
+    ],
+    "components": [
+        {
+            "id": "B\u0130LG\u0130_PANOSU_copy_{id}",
+            "type": "VerticalArrangement",
+            "properties": {
+                "AlignHorizontal": 3,
+                "AlignVertical": 2,
+                "BackgroundColor": 3825271041,
+                "Height": -2,
+                "Width": -2
+            },
+            "components": [
+                {
+                    "id": "Vertical_Scroll_Arrangement1_copy_copy_{id}",
+                    "type": "VerticalScrollArrangement",
+                    "properties": {
+                        "AlignHorizontal": 3,
+                        "BackgroundColor": 16777215,
+                        "Width": -2,
+                        "Scrollbar": false
+                    },
+                    "components": [
+                        {
+                            "id": "Dikey_D\u00fczen4_copy_copy_{id}",
+                            "type": "VerticalArrangement",
+                            "properties": {
+                                "AlignHorizontal": 3,
+                                "AlignVertical": 2,
+                                "BackgroundColor": 4264307756,
+                                "Width": -1090,
+                                "isCard": true
+                            },
+                            "components": [
+                                {
+                                    "id": "Bo\u015fluk3_copy2_copy_{id}",
+                                    "type": "SpaceView",
+                                    "properties": {
+                                        "Height": -1002
+                                    }
+                                },
+                                {
+                                    "id": "Horizontal_Arrangement3_copy_{id}",
+                                    "type": "HorizontalArrangement",
+                                    "properties": {
+                                        "AlignHorizontal": 3,
+                                        "AlignVertical": 2,
+                                        "BackgroundColor": 16777215,
+                                        "Width": -2
+                                    },
+                                    "components": [
+                                        {
+                                            "id": "Space2_copy_{id}",
+                                            "type": "SpaceView",
+                                            "properties": {
+                                                "Width": -1003
+                                            }
+                                        },
+                                        {
+                                            "id": "Label1_copy_{id}",
+                                            "type": "Label",
+                                            "properties": {
+                                                "Clickable": true,
+                                                "FontSize": 25,
+                                                "FontTypeface": 7,
+                                                "Text": "arrow_back",
+                                                "TextColor": 4294967295
+                                            }
+                                        },
+                                        {
+                                            "id": "Space2_copy_copy_{id}",
+                                            "type": "SpaceView",
+                                            "properties": {
+                                                "Width": -1003
+                                            }
+                                        },
+                                        {
+                                            "id": "Etiket3_copy3_copy_{id}",
+                                            "type": "Label",
+                                            "properties": {
+                                                "FontSize": 18,
+                                                "FontTypefaceImport": "Aller_Bd.ttf",
+                                                "Width": -2,
+                                                "TextAlignment": 1,
+                                                "TextColor": 4294967295
+                                            }
+                                        },
+                                        {
+                                            "id": "Space2_copy_copy_copy_{id}",
+                                            "type": "SpaceView",
+                                            "properties": {
+                                                "Width": -1003
+                                            }
+                                        },
+                                        {
+                                            "id": "Label1_copy1_copy_{id}",
+                                            "type": "Label",
+                                            "properties": {
+                                                "FontSize": 25,
+                                                "FontTypeface": 7,
+                                                "Text": "arrow_back",
+                                                "TextColor": 16777215
+                                            }
+                                        },
+                                        {
+                                            "id": "Space2_copy_copy_copy_copy_{id}",
+                                            "type": "SpaceView",
+                                            "properties": {
+                                                "Width": -1003
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Bo\u015fluk3_copy_copy1_copy_{id}",
+                                    "type": "SpaceView",
+                                    "properties": {
+                                        "Height": -1002
+                                    }
+                                },
+                                {
+                                    "id": "Resim1_copy2_copy_{id}",
+                                    "type": "Image",
+                                    "properties": {
+                                        "Height": 100,
+                                        "Width": 100
+                                    }
+                                },
+                                {
+                                    "id": "Bo\u015fluk3_copy_copy_copy_copy_{id}",
+                                    "type": "SpaceView",
+                                    "properties": {
+                                        "Height": -1002
+                                    }
+                                },
+                                {
+                                    "id": "Dikey_D\u00fczen5_copy_copy_{id}",
+                                    "type": "VerticalArrangement",
+                                    "properties": {
+                                        "AlignHorizontal": 3,
+                                        "AlignVertical": 2,
+                                        "BackgroundColor": 16777215,
+                                        "Width": -2
+                                    },
+                                    "components": [
+                                        {
+                                            "id": "Yatay_D\u00fczen3_copy1_copy_{id}",
+                                            "type": "HorizontalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Bo\u015fluk5_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Width": -1002
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Etiket4_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Rg.ttf",
+                                                        "Text": "Chemical Name: ",
+                                                        "TextColor": 4294967295
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Madde_Ad\u0131_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Lt.ttf",
+                                                        "Width": -2,
+                                                        "Text": "ABSICIC ACID",
+                                                        "TextAlignment": 2,
+                                                        "TextColor": 4294967295
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "Bo\u015fluk4_copy_copy_{id}",
+                                            "type": "SpaceView",
+                                            "properties": {
+                                                "Height": -1001
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Dikey_D\u00fczen5_copy3_copy_copy_{id}",
+                                    "type": "VerticalArrangement",
+                                    "properties": {
+                                        "AlignHorizontal": 3,
+                                        "AlignVertical": 2,
+                                        "BackgroundColor": 16777215,
+                                        "Width": -2
+                                    },
+                                    "components": [
+                                        {
+                                            "id": "Vertical_Arrangement3_copy_copy_{id}",
+                                            "type": "VerticalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Vertical_Arrangement2_copy_copy_{id}",
+                                                    "type": "VerticalArrangement",
+                                                    "properties": {
+                                                        "AlignHorizontal": 3,
+                                                        "AlignVertical": 2,
+                                                        "BackgroundColor": 2164128763,
+                                                        "Height": 1,
+                                                        "Width": -2
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Space1_copy1_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Height": -1001
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "Yatay_D\u00fczen3_copy3_copy_copy_{id}",
+                                            "type": "HorizontalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Bo\u015fluk5_copy3_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Width": -1002
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Etiket4_copy4_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Rg.ttf",
+                                                        "Text": "Cas Number:             ",
+                                                        "TextColor": 4294967295
+                                                    }
+                                                },
+                                                {
+                                                    "id": "CASNO_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Lt.ttf",
+                                                        "Width": -2,
+                                                        "Text": "ABSICIC ACID",
+                                                        "TextAlignment": 2,
+                                                        "TextColor": 4294967295
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "Bo\u015fluk4_copy3_copy_copy_{id}",
+                                            "type": "SpaceView",
+                                            "properties": {
+                                                "Height": -1001
+                                            }
+                                        },
+                                        {
+                                            "id": "Vertical_Arrangement3_copy_copy_copy_{id}",
+                                            "type": "VerticalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Vertical_Arrangement2_copy_copy_copy_{id}",
+                                                    "type": "VerticalArrangement",
+                                                    "properties": {
+                                                        "AlignHorizontal": 3,
+                                                        "AlignVertical": 2,
+                                                        "BackgroundColor": 2164128763,
+                                                        "Height": 1,
+                                                        "Width": -2
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Space1_copy_copy1_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Height": -1001
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Dikey_D\u00fczen5_copy3_copy_copy_copy_{id}",
+                                    "type": "VerticalArrangement",
+                                    "properties": {
+                                        "AlignHorizontal": 3,
+                                        "AlignVertical": 2,
+                                        "BackgroundColor": 16777215,
+                                        "Width": -2
+                                    },
+                                    "components": [
+                                        {
+                                            "id": "Yatay_D\u00fczen3_copy3_copy_copy_copy_{id}",
+                                            "type": "HorizontalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Bo\u015fluk5_copy3_copy_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Width": -1002
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Etiket4_copy4_copy_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Rg.ttf",
+                                                        "Text": "Ec Number:                   ",
+                                                        "TextColor": 4294967295
+                                                    }
+                                                },
+                                                {
+                                                    "id": "ECNO_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Lt.ttf",
+                                                        "Width": -2,
+                                                        "Text": "ABSICIC ACID",
+                                                        "TextAlignment": 2,
+                                                        "TextColor": 4294967295
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "Bo\u015fluk4_copy3_copy_copy_copy_{id}",
+                                            "type": "SpaceView",
+                                            "properties": {
+                                                "Height": -1001
+                                            }
+                                        },
+                                        {
+                                            "id": "Vertical_Arrangement3_copy1_copy_copy_{id}",
+                                            "type": "VerticalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Vertical_Arrangement2_copy1_copy_copy_{id}",
+                                                    "type": "VerticalArrangement",
+                                                    "properties": {
+                                                        "AlignHorizontal": 3,
+                                                        "AlignVertical": 2,
+                                                        "BackgroundColor": 2164128763,
+                                                        "Height": 1,
+                                                        "Width": -2
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Space1_copy1_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Height": -1001
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Dikey_D\u00fczen5_copy3_copy_copy1_copy_copy_{id}",
+                                    "type": "VerticalArrangement",
+                                    "properties": {
+                                        "AlignHorizontal": 3,
+                                        "AlignVertical": 2,
+                                        "BackgroundColor": 16777215,
+                                        "Width": -2
+                                    },
+                                    "components": [
+                                        {
+                                            "id": "Yatay_D\u00fczen3_copy3_copy_copy1_copy_copy_{id}",
+                                            "type": "HorizontalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Bo\u015fluk5_copy3_copy_copy1_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Width": -1002
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Etiket4_copy4_copy_copy1_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Rg.ttf",
+                                                        "Text": "Molarmass:                   ",
+                                                        "TextColor": 4294967295
+                                                    }
+                                                },
+                                                {
+                                                    "id": "molarmass_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Lt.ttf",
+                                                        "Width": -2,
+                                                        "Text": "ABSICIC ACID",
+                                                        "TextAlignment": 2,
+                                                        "TextColor": 4294967295
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "Bo\u015fluk4_copy3_copy_copy1_copy_copy_{id}",
+                                            "type": "SpaceView",
+                                            "properties": {
+                                                "Height": -1001
+                                            }
+                                        },
+                                        {
+                                            "id": "Vertical_Arrangement3_copy2_copy_copy_{id}",
+                                            "type": "VerticalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Vertical_Arrangement2_copy2_copy_copy_{id}",
+                                                    "type": "VerticalArrangement",
+                                                    "properties": {
+                                                        "AlignHorizontal": 3,
+                                                        "AlignVertical": 2,
+                                                        "BackgroundColor": 2164128763,
+                                                        "Height": 1,
+                                                        "Width": -2
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Space1_copy2_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Height": -1001
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Dikey_D\u00fczen5_copy3_copy_copy_copy_copy_{id}",
+                                    "type": "VerticalArrangement",
+                                    "properties": {
+                                        "AlignHorizontal": 3,
+                                        "AlignVertical": 2,
+                                        "BackgroundColor": 16777215,
+                                        "Width": -2
+                                    },
+                                    "components": [
+                                        {
+                                            "id": "Yatay_D\u00fczen3_copy3_copy_copy_copy_copy_{id}",
+                                            "type": "HorizontalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Bo\u015fluk5_copy3_copy_copy_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Width": -1002
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Etiket4_copy4_copy_copy_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Rg.ttf",
+                                                        "Text": "View:            ",
+                                                        "TextColor": 4294967295
+                                                    }
+                                                },
+                                                {
+                                                    "id": "G\u00d6R\u00dcN\u00dcM_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Lt.ttf",
+                                                        "Width": -2,
+                                                        "TextAlignment": 2,
+                                                        "TextColor": 4294967295
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "Bo\u015fluk4_copy3_copy_copy_copy_copy_{id}",
+                                            "type": "SpaceView",
+                                            "properties": {
+                                                "Height": -1001
+                                            }
+                                        },
+                                        {
+                                            "id": "Vertical_Arrangement3_copy3_copy_copy_{id}",
+                                            "type": "VerticalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Vertical_Arrangement2_copy3_copy_copy_{id}",
+                                                    "type": "VerticalArrangement",
+                                                    "properties": {
+                                                        "AlignHorizontal": 3,
+                                                        "AlignVertical": 2,
+                                                        "BackgroundColor": 2164128763,
+                                                        "Height": 1,
+                                                        "Width": -2
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Space1_copy3_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Height": -1001
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Dikey_D\u00fczen5_copy2_copy_copy_{id}",
+                                    "type": "VerticalArrangement",
+                                    "properties": {
+                                        "AlignHorizontal": 3,
+                                        "AlignVertical": 2,
+                                        "BackgroundColor": 16777215,
+                                        "Width": -2
+                                    },
+                                    "components": [
+                                        {
+                                            "id": "Yatay_D\u00fczen3_copy2_copy_copy_{id}",
+                                            "type": "HorizontalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Bo\u015fluk5_copy2_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Width": -1002
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Etiket4_copy3_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Rg.ttf",
+                                                        "Text": "Solublity:                      ",
+                                                        "TextColor": 4294967295
+                                                    }
+                                                },
+                                                {
+                                                    "id": "solublity_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Lt.ttf",
+                                                        "Width": -2,
+                                                        "Text": "ABSICIC ACID",
+                                                        "TextAlignment": 2,
+                                                        "TextColor": 4294967295
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "Bo\u015fluk4_copy2_copy_copy_{id}",
+                                            "type": "SpaceView",
+                                            "properties": {
+                                                "Height": -1001
+                                            }
+                                        },
+                                        {
+                                            "id": "Vertical_Arrangement3_copy4_copy_copy_{id}",
+                                            "type": "VerticalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Vertical_Arrangement2_copy4_copy_copy_{id}",
+                                                    "type": "VerticalArrangement",
+                                                    "properties": {
+                                                        "AlignHorizontal": 3,
+                                                        "AlignVertical": 2,
+                                                        "BackgroundColor": 2164128763,
+                                                        "Height": 1,
+                                                        "Width": -2
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Space1_copy4_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Height": -1001
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Dikey_D\u00fczen5_copy1_copy_copy_{id}",
+                                    "type": "VerticalArrangement",
+                                    "properties": {
+                                        "AlignHorizontal": 3,
+                                        "AlignVertical": 2,
+                                        "BackgroundColor": 16777215,
+                                        "Width": -2
+                                    },
+                                    "components": [
+                                        {
+                                            "id": "Yatay_D\u00fczen3_copy1_copy_copy_{id}",
+                                            "type": "HorizontalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Bo\u015fluk5_copy1_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Width": -1002
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Etiket4_copy2_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Rg.ttf",
+                                                        "Text": "Structure:            ",
+                                                        "TextColor": 4294967295
+                                                    }
+                                                },
+                                                {
+                                                    "id": "structure_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Lt.ttf",
+                                                        "Width": -2,
+                                                        "Text": "ABSICIC ACID",
+                                                        "TextAlignment": 2,
+                                                        "TextColor": 4294967295
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "Bo\u015fluk4_copy1_copy_copy_{id}",
+                                            "type": "SpaceView",
+                                            "properties": {
+                                                "Height": -1001
+                                            }
+                                        },
+                                        {
+                                            "id": "Vertical_Arrangement3_copy5_copy_copy_{id}",
+                                            "type": "VerticalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Vertical_Arrangement2_copy5_copy_copy_{id}",
+                                                    "type": "VerticalArrangement",
+                                                    "properties": {
+                                                        "AlignHorizontal": 3,
+                                                        "AlignVertical": 2,
+                                                        "BackgroundColor": 2164128763,
+                                                        "Height": 1,
+                                                        "Width": -2
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Space1_copy5_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Height": -1001
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Dikey_D\u00fczen5_copy_copy_copy_{id}",
+                                    "type": "VerticalArrangement",
+                                    "properties": {
+                                        "AlignHorizontal": 3,
+                                        "AlignVertical": 2,
+                                        "BackgroundColor": 16777215,
+                                        "Width": -2
+                                    },
+                                    "components": [
+                                        {
+                                            "id": "Yatay_D\u00fczen3_copy_copy1_copy_{id}",
+                                            "type": "HorizontalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Bo\u015fluk5_copy_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Width": -1002
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Etiket4_copy1_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Rg.ttf",
+                                                        "Text": "Density:              ",
+                                                        "TextColor": 4294967295
+                                                    }
+                                                },
+                                                {
+                                                    "id": "density_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Lt.ttf",
+                                                        "Width": -2,
+                                                        "Text": "ABSICIC ACID",
+                                                        "TextAlignment": 2,
+                                                        "TextColor": 4294967295
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "Bo\u015fluk4_copy_copy_copy_{id}",
+                                            "type": "SpaceView",
+                                            "properties": {
+                                                "Height": -1001
+                                            }
+                                        },
+                                        {
+                                            "id": "Vertical_Arrangement3_copy6_copy_copy_{id}",
+                                            "type": "VerticalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Vertical_Arrangement2_copy6_copy_copy_{id}",
+                                                    "type": "VerticalArrangement",
+                                                    "properties": {
+                                                        "AlignHorizontal": 3,
+                                                        "AlignVertical": 2,
+                                                        "BackgroundColor": 2164128763,
+                                                        "Height": 1,
+                                                        "Width": -2
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Space1_copy6_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Height": -1001
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Dikey_D\u00fczen5_copy_copy_copy_copy_{id}",
+                                    "type": "VerticalArrangement",
+                                    "properties": {
+                                        "AlignHorizontal": 3,
+                                        "AlignVertical": 2,
+                                        "BackgroundColor": 16777215,
+                                        "Width": -2
+                                    },
+                                    "components": [
+                                        {
+                                            "id": "Yatay_D\u00fczen3_copy_copy_copy1_copy_{id}",
+                                            "type": "HorizontalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Bo\u015fluk5_copy_copy_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Width": -1002
+                                                    }
+                                                },
+                                                {
+                                                    "id": "KNdfgfd_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Rg.ttf",
+                                                        "Text": "pH:      ",
+                                                        "TextColor": 4294967295
+                                                    }
+                                                },
+                                                {
+                                                    "id": "pH_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Lt.ttf",
+                                                        "Width": -2,
+                                                        "Text": "ABSICIC ACID",
+                                                        "TextAlignment": 2,
+                                                        "TextColor": 4294967295
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "Bo\u015fluk4_copy_copy_copy_copy_{id}",
+                                            "type": "SpaceView",
+                                            "properties": {
+                                                "Height": -1001
+                                            }
+                                        },
+                                        {
+                                            "id": "Vertical_Arrangement3_copy8_copy_copy_{id}",
+                                            "type": "VerticalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Vertical_Arrangement2_copy8_copy_copy_{id}",
+                                                    "type": "VerticalArrangement",
+                                                    "properties": {
+                                                        "AlignHorizontal": 3,
+                                                        "AlignVertical": 2,
+                                                        "BackgroundColor": 2164128763,
+                                                        "Height": 1,
+                                                        "Width": -2
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Space1_copy8_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Height": -1001
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Dikey_D\u00fczen5_copy_copy_copy_copy_copy_{id}",
+                                    "type": "VerticalArrangement",
+                                    "properties": {
+                                        "AlignHorizontal": 3,
+                                        "AlignVertical": 2,
+                                        "BackgroundColor": 16777215,
+                                        "Width": -2
+                                    },
+                                    "components": [
+                                        {
+                                            "id": "Yatay_D\u00fczen3_copy_copy_copy_copy_copy_{id}",
+                                            "type": "HorizontalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Bo\u015fluk5_copy_copy_copy_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Width": -1002
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Etiket4_copy1_copy_copy_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Rg.ttf",
+                                                        "Text": "Boiling Point:                       ",
+                                                        "TextColor": 4294967295
+                                                    }
+                                                },
+                                                {
+                                                    "id": "boilingC_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Lt.ttf",
+                                                        "Width": -2,
+                                                        "Text": "ABSICIC ACID",
+                                                        "TextAlignment": 2,
+                                                        "TextColor": 4294967295
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_{id}",
+                                            "type": "SpaceView",
+                                            "properties": {
+                                                "Height": -1001
+                                            }
+                                        },
+                                        {
+                                            "id": "Vertical_Arrangement3_copy9_copy_copy_{id}",
+                                            "type": "VerticalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Vertical_Arrangement2_copy9_copy_copy_{id}",
+                                                    "type": "VerticalArrangement",
+                                                    "properties": {
+                                                        "AlignHorizontal": 3,
+                                                        "AlignVertical": 2,
+                                                        "BackgroundColor": 2164128763,
+                                                        "Height": 1,
+                                                        "Width": -2
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Space1_copy9_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Height": -1001
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Dikey_D\u00fczen5_copy_copy_copy_copy_copy_copy_{id}",
+                                    "type": "VerticalArrangement",
+                                    "properties": {
+                                        "AlignHorizontal": 3,
+                                        "AlignVertical": 2,
+                                        "BackgroundColor": 16777215,
+                                        "Width": -2
+                                    },
+                                    "components": [
+                                        {
+                                            "id": "Yatay_D\u00fczen3_copy_copy_copy_copy_copy_copy_{id}",
+                                            "type": "HorizontalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Bo\u015fluk5_copy_copy_copy_copy_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Width": -1002
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Etiket4_copy1_copy_copy_copy_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Rg.ttf",
+                                                        "Text": "Melting Point:                       ",
+                                                        "TextColor": 4294967295
+                                                    }
+                                                },
+                                                {
+                                                    "id": "meltingC_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Lt.ttf",
+                                                        "Width": -2,
+                                                        "Text": "ABSICIC ACID",
+                                                        "TextAlignment": 2,
+                                                        "TextColor": 4294967295
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_{id}",
+                                            "type": "SpaceView",
+                                            "properties": {
+                                                "Height": -1001
+                                            }
+                                        },
+                                        {
+                                            "id": "Vertical_Arrangement3_copy10_copy_copy_{id}",
+                                            "type": "VerticalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Vertical_Arrangement2_copy10_copy_copy_{id}",
+                                                    "type": "VerticalArrangement",
+                                                    "properties": {
+                                                        "AlignHorizontal": 3,
+                                                        "AlignVertical": 2,
+                                                        "BackgroundColor": 2164128763,
+                                                        "Height": 1,
+                                                        "Width": -2
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Space1_copy10_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Height": -1001
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Dikey_D\u00fczen5_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                    "type": "VerticalArrangement",
+                                    "properties": {
+                                        "AlignHorizontal": 3,
+                                        "AlignVertical": 2,
+                                        "BackgroundColor": 16777215,
+                                        "Width": -2
+                                    },
+                                    "components": [
+                                        {
+                                            "id": "Yatay_D\u00fczen3_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                            "type": "HorizontalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Bo\u015fluk5_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Width": -1002
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Etiket4_copy1_copy_copy_copy_copy_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Rg.ttf",
+                                                        "Text": "Flash Point: ",
+                                                        "TextColor": 4294967295
+                                                    }
+                                                },
+                                                {
+                                                    "id": "flashC_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Lt.ttf",
+                                                        "Width": -2,
+                                                        "Text": "ABSICIC ACID",
+                                                        "TextAlignment": 2,
+                                                        "TextColor": 4294967295
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                            "type": "SpaceView",
+                                            "properties": {
+                                                "Height": -1001
+                                            }
+                                        },
+                                        {
+                                            "id": "Vertical_Arrangement3_copy11_copy_copy_{id}",
+                                            "type": "VerticalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Vertical_Arrangement2_copy11_copy_copy_{id}",
+                                                    "type": "VerticalArrangement",
+                                                    "properties": {
+                                                        "AlignHorizontal": 3,
+                                                        "AlignVertical": 2,
+                                                        "BackgroundColor": 2164128763,
+                                                        "Height": 1,
+                                                        "Width": -2
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Space1_copy11_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Height": -1001
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Dikey_D\u00fczen5_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                    "type": "VerticalArrangement",
+                                    "properties": {
+                                        "AlignHorizontal": 3,
+                                        "AlignVertical": 2,
+                                        "BackgroundColor": 16777215,
+                                        "Width": -2
+                                    },
+                                    "components": [
+                                        {
+                                            "id": "Yatay_D\u00fczen3_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                            "type": "HorizontalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Bo\u015fluk5_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Width": -1002
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Etiket4_copy1_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Rg.ttf",
+                                                        "Text": "Storage:                      ",
+                                                        "TextColor": 4294967295
+                                                    }
+                                                },
+                                                {
+                                                    "id": "storageC_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Lt.ttf",
+                                                        "Width": -2,
+                                                        "Text": "ABSICIC ACID",
+                                                        "TextAlignment": 2,
+                                                        "TextColor": 4294967295
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                            "type": "SpaceView",
+                                            "properties": {
+                                                "Height": -1001
+                                            }
+                                        },
+                                        {
+                                            "id": "Vertical_Arrangement3_copy12_copy_copy_{id}",
+                                            "type": "VerticalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Vertical_Arrangement2_copy12_copy_copy_{id}",
+                                                    "type": "VerticalArrangement",
+                                                    "properties": {
+                                                        "AlignHorizontal": 3,
+                                                        "AlignVertical": 2,
+                                                        "BackgroundColor": 2164128763,
+                                                        "Height": 1,
+                                                        "Width": -2
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Space1_copy12_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Height": -1001
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Dikey_D\u00fczen5_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                    "type": "VerticalArrangement",
+                                    "properties": {
+                                        "AlignHorizontal": 3,
+                                        "AlignVertical": 2,
+                                        "BackgroundColor": 16777215,
+                                        "Width": -2
+                                    },
+                                    "components": [
+                                        {
+                                            "id": "Yatay_D\u00fczen3_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                            "type": "HorizontalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Bo\u015fluk5_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Width": -1002
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Etiket4_copy1_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Rg.ttf",
+                                                        "Text": "HS-Code:      ",
+                                                        "TextColor": 4294967295
+                                                    }
+                                                },
+                                                {
+                                                    "id": "hsCODE_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Lt.ttf",
+                                                        "Width": -2,
+                                                        "Text": "ABSICIC ACID",
+                                                        "TextAlignment": 2,
+                                                        "TextColor": 4294967295
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy1_copy_copy_{id}",
+                                            "type": "SpaceView",
+                                            "properties": {
+                                                "Height": -1001
+                                            }
+                                        },
+                                        {
+                                            "id": "Vertical_Arrangement3_copy13_copy_copy_{id}",
+                                            "type": "VerticalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Vertical_Arrangement2_copy13_copy_copy_{id}",
+                                                    "type": "VerticalArrangement",
+                                                    "properties": {
+                                                        "AlignHorizontal": 3,
+                                                        "AlignVertical": 2,
+                                                        "BackgroundColor": 2164128763,
+                                                        "Height": 1,
+                                                        "Width": -2
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Space1_copy13_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Height": -1001
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Dikey_D\u00fczen5_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                    "type": "VerticalArrangement",
+                                    "properties": {
+                                        "AlignHorizontal": 3,
+                                        "AlignVertical": 2,
+                                        "BackgroundColor": 16777215,
+                                        "Width": -2
+                                    },
+                                    "components": [
+                                        {
+                                            "id": "Yatay_D\u00fczen3_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                            "type": "HorizontalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Bo\u015fluk5_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Width": -1002
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Etiket4_copy1_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Rg.ttf",
+                                                        "Text": "Un Number:      ",
+                                                        "TextColor": 4294967295
+                                                    }
+                                                },
+                                                {
+                                                    "id": "unNO_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Lt.ttf",
+                                                        "Width": -2,
+                                                        "Text": "ABSICIC ACID",
+                                                        "TextAlignment": 2,
+                                                        "TextColor": 4294967295
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy1_copy_copy_copy_{id}",
+                                            "type": "SpaceView",
+                                            "properties": {
+                                                "Height": -1001
+                                            }
+                                        },
+                                        {
+                                            "id": "Vertical_Arrangement3_copy14_copy_copy_{id}",
+                                            "type": "VerticalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Vertical_Arrangement2_copy14_copy_copy_{id}",
+                                                    "type": "VerticalArrangement",
+                                                    "properties": {
+                                                        "AlignHorizontal": 3,
+                                                        "AlignVertical": 2,
+                                                        "BackgroundColor": 2164128763,
+                                                        "Height": 1,
+                                                        "Width": -2
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Space1_copy14_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Height": -1001
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Dikey_D\u00fczen5_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                    "type": "VerticalArrangement",
+                                    "properties": {
+                                        "AlignHorizontal": 3,
+                                        "AlignVertical": 2,
+                                        "BackgroundColor": 16777215,
+                                        "Width": -2
+                                    },
+                                    "components": [
+                                        {
+                                            "id": "Yatay_D\u00fczen3_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                            "type": "HorizontalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Bo\u015fluk5_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Width": -1002
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Etiket4_copy1_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Rg.ttf",
+                                                        "Text": "Hazard Class:      ",
+                                                        "TextColor": 4294967295
+                                                    }
+                                                },
+                                                {
+                                                    "id": "hazardClass_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Lt.ttf",
+                                                        "Width": -2,
+                                                        "Text": "ABSICIC ACID",
+                                                        "TextAlignment": 2,
+                                                        "TextColor": 4294967295
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy1_copy_copy_copy_copy_{id}",
+                                            "type": "SpaceView",
+                                            "properties": {
+                                                "Height": -1001
+                                            }
+                                        },
+                                        {
+                                            "id": "Vertical_Arrangement3_copy15_copy_copy_{id}",
+                                            "type": "VerticalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Vertical_Arrangement2_copy15_copy_copy_{id}",
+                                                    "type": "VerticalArrangement",
+                                                    "properties": {
+                                                        "AlignHorizontal": 3,
+                                                        "AlignVertical": 2,
+                                                        "BackgroundColor": 2164128763,
+                                                        "Height": 1,
+                                                        "Width": -2
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Space1_copy15_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Height": -1001
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Dikey_D\u00fczen5_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                    "type": "VerticalArrangement",
+                                    "properties": {
+                                        "AlignHorizontal": 3,
+                                        "AlignVertical": 2,
+                                        "BackgroundColor": 16777215,
+                                        "Width": -2
+                                    },
+                                    "components": [
+                                        {
+                                            "id": "Yatay_D\u00fczen3_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                            "type": "HorizontalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Bo\u015fluk5_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Width": -1002
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Etiket4_copy1_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Rg.ttf",
+                                                        "Text": "Packing Group:      ",
+                                                        "TextColor": 4294967295
+                                                    }
+                                                },
+                                                {
+                                                    "id": "packingGroup_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Lt.ttf",
+                                                        "Width": -2,
+                                                        "Text": "ABSICIC ACID",
+                                                        "TextAlignment": 2,
+                                                        "TextColor": 4294967295
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy1_copy_copy_copy_copy_copy_{id}",
+                                            "type": "SpaceView",
+                                            "properties": {
+                                                "Height": -1001
+                                            }
+                                        },
+                                        {
+                                            "id": "Vertical_Arrangement3_copy16_copy_copy_{id}",
+                                            "type": "VerticalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Vertical_Arrangement2_copy16_copy_copy_{id}",
+                                                    "type": "VerticalArrangement",
+                                                    "properties": {
+                                                        "AlignHorizontal": 3,
+                                                        "AlignVertical": 2,
+                                                        "BackgroundColor": 2164128763,
+                                                        "Height": 1,
+                                                        "Width": -2
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Space1_copy16_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Height": -1001
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Dikey_D\u00fczen5_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                    "type": "VerticalArrangement",
+                                    "properties": {
+                                        "AlignHorizontal": 3,
+                                        "AlignVertical": 2,
+                                        "BackgroundColor": 16777215,
+                                        "Width": -2
+                                    },
+                                    "components": [
+                                        {
+                                            "id": "Yatay_D\u00fczen3_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                            "type": "HorizontalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Bo\u015fluk5_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Width": -1002
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Etiket4_copy1_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Rg.ttf",
+                                                        "Text": "Signal Word:      ",
+                                                        "TextColor": 4294967295
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Signal_word_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Lt.ttf",
+                                                        "Width": -2,
+                                                        "Text": "ABSICIC ACID",
+                                                        "TextAlignment": 2,
+                                                        "TextColor": 4294967295
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy1_copy_copy_copy_copy_copy_copy_{id}",
+                                            "type": "SpaceView",
+                                            "properties": {
+                                                "Height": -1001
+                                            }
+                                        },
+                                        {
+                                            "id": "Vertical_Arrangement3_copy17_copy_copy_{id}",
+                                            "type": "VerticalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Vertical_Arrangement2_copy17_copy_copy_{id}",
+                                                    "type": "VerticalArrangement",
+                                                    "properties": {
+                                                        "AlignHorizontal": 3,
+                                                        "AlignVertical": 2,
+                                                        "BackgroundColor": 2164128763,
+                                                        "Height": 1,
+                                                        "Width": -2
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Space1_copy17_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Height": -1001
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "Dikey_D\u00fczen5_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                    "type": "VerticalArrangement",
+                                    "properties": {
+                                        "AlignHorizontal": 3,
+                                        "AlignVertical": 2,
+                                        "BackgroundColor": 16777215,
+                                        "Width": -2
+                                    },
+                                    "components": [
+                                        {
+                                            "id": "Yatay_D\u00fczen3_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                            "type": "HorizontalArrangement",
+                                            "properties": {
+                                                "AlignHorizontal": 3,
+                                                "AlignVertical": 2,
+                                                "BackgroundColor": 16777215,
+                                                "Width": -2
+                                            },
+                                            "components": [
+                                                {
+                                                    "id": "Bo\u015fluk5_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                                    "type": "SpaceView",
+                                                    "properties": {
+                                                        "Width": -1002
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Etiket4_copy1_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Rg.ttf",
+                                                        "Text": "Hazard Statements:      ",
+                                                        "TextColor": 4294967295
+                                                    }
+                                                },
+                                                {
+                                                    "id": "Hazard_statements_copy_copy_{id}",
+                                                    "type": "Label",
+                                                    "properties": {
+                                                        "FontTypefaceImport": "Aller_Lt.ttf",
+                                                        "Width": -2,
+                                                        "Text": "ABSICIC ACID",
+                                                        "TextAlignment": 2,
+                                                        "TextColor": 4294967295
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy1_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                            "type": "SpaceView",
+                                            "properties": {
+                                                "Height": -1001
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                            "type": "SpaceView",
+                            "properties": {
+                                "Height": -1001
+                            }
+                        },
+                        {
+                            "id": "Label1_copy_copy_{id}",
+                            "type": "Label",
+                            "properties": {
+                                "FontSize": 40,
+                                "FontTypeface": 7,
+                                "RotationAngle": 90,
+                                "Text": "arrow_forward",
+                                "TextColor": 3053321211
+                            }
+                        },
+                        {
+                            "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy_copy1_copy_copy_{id}",
+                            "type": "SpaceView",
+                            "properties": {
+                                "Height": -1001
+                            }
+                        },
+                        {
+                            "id": "Vertical_Arrangement1_copy_copy_{id}",
+                            "type": "VerticalArrangement",
+                            "properties": {
+                                "AlignHorizontal": 3,
+                                "AlignVertical": 2,
+                                "BackgroundColor": 4264307756,
+                                "Width": -1090,
+                                "isCard": true
+                            },
+                            "components": [
+                                {
+                                    "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy1_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                    "type": "SpaceView",
+                                    "properties": {
+                                        "Height": -1001
+                                    }
+                                },
+                                {
+                                    "id": "Etiket4_copy1_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                    "type": "Label",
+                                    "properties": {
+                                        "FontSize": 16,
+                                        "FontTypefaceImport": "Aller_Bd.ttf",
+                                        "Width": -2,
+                                        "Text": "Symbol",
+                                        "TextAlignment": 1,
+                                        "TextColor": 4294967295
+                                    }
+                                },
+                                {
+                                    "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy1_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy2_copy_copy_{id}",
+                                    "type": "SpaceView",
+                                    "properties": {
+                                        "Height": -1001
+                                    }
+                                },
+                                {
+                                    "id": "Resim1_copy_copy1_copy_{id}",
+                                    "type": "Image",
+                                    "properties": {
+                                        "Height": 75,
+                                        "Width": 75
+                                    }
+                                },
+                                {
+                                    "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy1_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy1_copy_copy_{id}",
+                                    "type": "SpaceView",
+                                    "properties": {
+                                        "Height": -1001
+                                    }
+                                },
+                                {
+                                    "id": "symbol_copy_copy_{id}",
+                                    "type": "Label",
+                                    "properties": {
+                                        "FontTypefaceImport": "Aller_Lt.ttf",
+                                        "Width": -2,
+                                        "Text": "ABSICIC ACID",
+                                        "TextColor": 4294967295,
+                                        "Visible": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy_copy_copy1_copy_copy_{id}",
+                            "type": "SpaceView",
+                            "properties": {
+                                "Height": -1001
+                            }
+                        },
+                        {
+                            "id": "Vertical_Arrangement1_copy_copy_copy_{id}",
+                            "type": "VerticalArrangement",
+                            "properties": {
+                                "AlignHorizontal": 3,
+                                "AlignVertical": 2,
+                                "BackgroundColor": 4264307756,
+                                "Width": -1090,
+                                "isCard": true
+                            },
+                            "components": [
+                                {
+                                    "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy1_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                    "type": "SpaceView",
+                                    "properties": {
+                                        "Height": -1001
+                                    }
+                                },
+                                {
+                                    "id": "Etiket4_copy1_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy1_copy_copy_{id}",
+                                    "type": "Label",
+                                    "properties": {
+                                        "FontSize": 16,
+                                        "FontTypefaceImport": "Aller_Bd.ttf",
+                                        "Width": -2,
+                                        "Text": "Precautionary Statements",
+                                        "TextAlignment": 1,
+                                        "TextColor": 4294967295
+                                    }
+                                },
+                                {
+                                    "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy1_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy2_copy_copy_copy_{id}",
+                                    "type": "SpaceView",
+                                    "properties": {
+                                        "Height": -1001
+                                    }
+                                },
+                                {
+                                    "id": "Precautionary_statements_copy_copy_{id}",
+                                    "type": "Label",
+                                    "properties": {
+                                        "FontTypefaceImport": "Aller_Lt.ttf",
+                                        "Width": -2,
+                                        "Text": "ABSICIC ACID",
+                                        "TextAlignment": 1,
+                                        "TextColor": 4294967295
+                                    }
+                                },
+                                {
+                                    "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy1_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy1_copy_copy_copy_{id}",
+                                    "type": "SpaceView",
+                                    "properties": {
+                                        "Height": -1001
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                            "type": "SpaceView",
+                            "properties": {
+                                "Height": -1001
+                            }
+                        },
+                        {
+                            "id": "Vertical_Arrangement1_copy_copy1_copy_copy_copy_{id}",
+                            "type": "VerticalArrangement",
+                            "properties": {
+                                "AlignHorizontal": 3,
+                                "AlignVertical": 2,
+                                "BackgroundColor": 4264307756,
+                                "Width": -1090,
+                                "isCard": true
+                            },
+                            "components": [
+                                {
+                                    "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy1_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy1_copy_copy_copy_{id}",
+                                    "type": "SpaceView",
+                                    "properties": {
+                                        "Height": -1001
+                                    }
+                                },
+                                {
+                                    "id": "Etiket4_copy1_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy1_copy1_copy_copy_copy_{id}",
+                                    "type": "Label",
+                                    "properties": {
+                                        "FontSize": 16,
+                                        "FontTypefaceImport": "Aller_Bd.ttf",
+                                        "Width": -2,
+                                        "Text": "Health Efect",
+                                        "TextAlignment": 1,
+                                        "TextColor": 4294967295
+                                    }
+                                },
+                                {
+                                    "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy1_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy2_copy_copy1_copy_copy_copy_{id}",
+                                    "type": "SpaceView",
+                                    "properties": {
+                                        "Height": -1001
+                                    }
+                                },
+                                {
+                                    "id": "healthEfect_copy_copy_{id}",
+                                    "type": "Label",
+                                    "properties": {
+                                        "FontTypefaceImport": "Aller_Lt.ttf",
+                                        "Width": -2,
+                                        "Text": "ABSICIC ACID",
+                                        "TextAlignment": 1,
+                                        "TextColor": 4294967295
+                                    }
+                                },
+                                {
+                                    "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy1_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy1_copy_copy1_copy_copy_copy_{id}",
+                                    "type": "SpaceView",
+                                    "properties": {
+                                        "Height": -1001
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                            "type": "SpaceView",
+                            "properties": {
+                                "Height": -1001
+                            }
+                        },
+                        {
+                            "id": "Vertical_Arrangement1_copy_copy_copy_copy_{id}",
+                            "type": "VerticalArrangement",
+                            "properties": {
+                                "AlignHorizontal": 3,
+                                "AlignVertical": 2,
+                                "BackgroundColor": 4264307756,
+                                "Width": -1090,
+                                "isCard": true
+                            },
+                            "components": [
+                                {
+                                    "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy1_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                                    "type": "SpaceView",
+                                    "properties": {
+                                        "Height": -1001
+                                    }
+                                },
+                                {
+                                    "id": "Etiket4_copy1_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy1_copy_copy_copy_{id}",
+                                    "type": "Label",
+                                    "properties": {
+                                        "FontSize": 16,
+                                        "FontTypefaceImport": "Aller_Bd.ttf",
+                                        "Width": -2,
+                                        "Text": "Production Methods",
+                                        "TextAlignment": 1,
+                                        "TextColor": 4294967295
+                                    }
+                                },
+                                {
+                                    "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy1_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy2_copy_copy_copy_copy_{id}",
+                                    "type": "SpaceView",
+                                    "properties": {
+                                        "Height": -1001
+                                    }
+                                },
+                                {
+                                    "id": "productionMethods_copy_copy_{id}",
+                                    "type": "Label",
+                                    "properties": {
+                                        "FontTypefaceImport": "Aller_Lt.ttf",
+                                        "Width": -2,
+                                        "Text": "ABSICIC ACID",
+                                        "TextAlignment": 1,
+                                        "TextColor": 4294967295
+                                    }
+                                },
+                                {
+                                    "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy1_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy1_copy_copy_copy_copy_{id}",
+                                    "type": "SpaceView",
+                                    "properties": {
+                                        "Height": -1001
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy_copy_copy2_copy_copy_{id}",
+                            "type": "SpaceView",
+                            "properties": {
+                                "Height": -1001
+                            }
+                        },
+                        {
+                            "id": "Vertical_Arrangement1_copy_copy1_copy_copy_{id}",
+                            "type": "VerticalArrangement",
+                            "properties": {
+                                "AlignHorizontal": 3,
+                                "AlignVertical": 2,
+                                "BackgroundColor": 4264307756,
+                                "Width": -1090,
+                                "isCard": true
+                            },
+                            "components": [
+                                {
+                                    "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy1_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy1_copy_copy_{id}",
+                                    "type": "SpaceView",
+                                    "properties": {
+                                        "Height": -1001
+                                    }
+                                },
+                                {
+                                    "id": "Etiket4_copy1_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy1_copy1_copy_copy_{id}",
+                                    "type": "Label",
+                                    "properties": {
+                                        "FontSize": 16,
+                                        "FontTypefaceImport": "Aller_Bd.ttf",
+                                        "Width": -2,
+                                        "Text": "Industial Uses",
+                                        "TextAlignment": 1,
+                                        "TextColor": 4294967295
+                                    }
+                                },
+                                {
+                                    "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy1_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy2_copy_copy1_copy_copy_{id}",
+                                    "type": "SpaceView",
+                                    "properties": {
+                                        "Height": -1001
+                                    }
+                                },
+                                {
+                                    "id": "industialUses_copy_copy_{id}",
+                                    "type": "Label",
+                                    "properties": {
+                                        "FontTypefaceImport": "Aller_Lt.ttf",
+                                        "Width": -2,
+                                        "Text": "ABSICIC ACID",
+                                        "TextAlignment": 1,
+                                        "TextColor": 4294967295
+                                    }
+                                },
+                                {
+                                    "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy1_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy1_copy_copy1_copy_copy_{id}",
+                                    "type": "SpaceView",
+                                    "properties": {
+                                        "Height": -1001
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy1_copy_copy_{id}",
+                            "type": "SpaceView",
+                            "properties": {
+                                "Height": -1001
+                            }
+                        },
+                        {
+                            "id": "Kart_G\u00f6r\u00fcn\u00fcm\u00fc2_copy1_copy_{id}",
+                            "type": "MakeroidCardView",
+                            "properties": {
+                                "BackgroundColor": 4294198070,
+                                "CornerRadius": 20,
+                                "Elevation": 0,
+                                "FullClickable": true,
+                                "Width": -2
+                            },
+                            "components": [
+                                {
+                                    "id": "Etiket5_copy_copy_{id}",
+                                    "type": "Label",
+                                    "properties": {
+                                        "FontTypefaceImport": "Aller_Rg.ttf",
+                                        "Width": -2,
+                                        "Text": "Kapat",
+                                        "TextAlignment": 1,
+                                        "TextColor": 4294967295
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Bo\u015fluk4_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_{id}",
+                            "type": "SpaceView",
+                            "properties": {
+                                "Height": -1001
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
